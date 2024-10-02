@@ -1,5 +1,0 @@
-[[PX156 - B1 - atoms and atomic spectra]]
-[[PX156 - B2 - bohr's model]]
-[[PX156 - B3 - de broglie hypothesis]]
-[[PX156 - B4 - classical  vs quantum]]
-[[PX156 - B5 - quantum approach]]

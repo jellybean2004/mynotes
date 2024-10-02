@@ -1,7 +1,0 @@
-[[PX154 - G1a - waves on a taut string]]
-[[PX154 - G1b - transfer of power by the wave]]
-[[PX154 - G2 - longitudinal waves along a bar (1D)]]
-[[PX154 - G3 - shear waves]]
-[[PX154 - G4 - three dimensional solids - bulk waves]]
-[[PX154 - G5 - waves in bulk gases - sound waves]]
-[[PX154 - G6 - the doppler effect]]

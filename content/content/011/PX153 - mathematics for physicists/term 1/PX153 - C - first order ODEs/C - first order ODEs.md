@@ -1,6 +1,0 @@
-[[PX153 - C1 - introduction and definitions]]
-[[PX153 - C2 - construction of ODEs]]
-[[PX153 - C3 - direct integration]]
-[[PX153 - C4 - separation of variables]]
-[[PX153 - C5 - substitution]]
-[[PX153 - C6 - integrating factor]]

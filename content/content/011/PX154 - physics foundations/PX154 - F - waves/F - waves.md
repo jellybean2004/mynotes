@@ -1,7 +1,0 @@
-[[PX154 - F1a - concepts and definitions]]
-[[PX154 - F1b - the wave function]]
-[[PX154 - F1c - propagation]]
-[[PX154 - F2 - the wave equation]]
-[[PX154 - F3a - principle of superposition]]
-[[PX154 - F3b - beats]]
-[[PX154 - F4 - wave groups and group velocity]]

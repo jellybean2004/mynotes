@@ -1,8 +1,0 @@
-[[PX156 - G1 - introduction]]
-[[PX156 - G2 - interactions]]
-[[PX156 - G3 - basic rules]]
-[[PX156 - G4 - strategies of drawing a feynmann diagram]]
-[[PX156 - G5 - virtual particles]]
-[[PX156 - H1 - the electromagnetic force]]
-[[PX156 - H2 - the strong force]]
-[[PX156 - H3 - the weak force]]

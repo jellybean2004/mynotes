@@ -1,8 +1,0 @@
-[[PX153 - A1 - notation and geometrical representation]]
-[[PX153 - A2 - cartesian coordinates and vector components]]
-[[PX153 - A3 - position, velocity and acceleration vectors]]
-[[PX153 - A4 - vector operations]]
-[[PX153 - A5 - coordinate systems]]
-[[PX153 - A6 - advanced vector operations]]
-[[PX153 - A7 - reciprocal vectors]]
-[[PX153 - A0]]
