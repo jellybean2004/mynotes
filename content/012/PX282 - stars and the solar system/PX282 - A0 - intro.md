@@ -26,8 +26,4 @@
 	- the mass, $M_{\odot}=2\times10^{30}\,kg\approx1.7B\,M_{\oplus}$
 	- age $\approx4.6\,Gyr$ (from the age of the oldest moon rocks)
 	- rotation period $\approx 27\,days$
-	$$\begin{align*}
-	a^{2}&= c^{2}\\
-	c^{2}&= d^{2}
-	\end{align*}
-	$$
+	$$\begin{align*}	a^{2}&= c^{2}\\	c^{2}&= d^{2}\end{align*}	$$
