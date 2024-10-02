@@ -1,0 +1,6 @@
+[[PX156 - F1 - quantum number]]
+[[PX156 - F2 - categorization]]
+[[PX156 - F3 - leptons]]
+[[PX156 - F4 - quarks]]
+[[PX156 - F5 - quark combinations]]
+[[PX156 - F6 - conservation of quantum numbers in interactions]]

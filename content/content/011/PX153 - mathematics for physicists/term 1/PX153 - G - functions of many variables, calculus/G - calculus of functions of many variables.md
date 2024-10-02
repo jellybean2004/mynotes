@@ -1,0 +1,5 @@
+[[PX153 - G1 - partital differentiation]]
+[[PX153 - G2 - the total differential, and exact and inexact differentials]]
+[[PX153 - G3 - partial differential equations]]
+[[PX153 - G4 - taylor expansion of a function of two variables]]
+[[PX153 - G5 - critical points of a function of two variables]]

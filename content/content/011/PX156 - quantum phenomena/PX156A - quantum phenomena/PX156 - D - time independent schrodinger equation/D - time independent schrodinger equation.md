@@ -1,0 +1,7 @@
+[[PX156 - D1 - time independent schrodinger equation]]
+[[PX156 - D2 - infinite potential well]]
+[[PX156 - D3 - finite potential well]]
+[[PX156 - D4 - classical and quantum particle]]
+[[PX156 - D5 - the finite potential barrier]]
+[[PX156 - D6 - rutherford scattering experiment]]
+[[PX156 - D7 - alpha decay of nuclei]]
